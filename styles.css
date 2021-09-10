@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: cyan;
+}
+
+body .hll {
+  margin-top: 400px;
+}
+
+body .welcome {
+  background: royalblue;
+  height: 150px;
+  padding: 1px;
+}
+
+body h1 {
+  text-align: center;
+  margin-top: 60px;
+}
+
+body .info {
+  width: 500px;
+  height: 500px;
+  margin: 0 auto;
+  margin-top: 100px;
+  text-align: center;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body .info .userText {
+  font-size: 20px;
+}
+
+body .info #username, body .info #password, body .info #newUsername, body .info #newPassword {
+  width: 200px;
+  height: 20px;
+}
+
+body .info #submit {
+  width: 205px;
+  height: 30px;
+}
+/*# sourceMappingURL=styles.css.map */
